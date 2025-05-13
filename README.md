@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ong Wee Chuan!
 
-<!--
-**ChubbyChuan/ChubbyChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
-Here are some ideas to get you started:
+I love build cool stuff with code and 3d printing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m Working On
+- 🔧 Building working 3d printing projects for magicians
+- 📦 Creating webapps fulltime
+- 💻 Leveling up my Java, Python, SQL, and JavaScript
+
+## 📚 Currently Learning
+- 🐍 Python (FastAPI, scripting)
+
+
+## 🛠️ Tech Stack
+- **Languages**: Python, Java, SQL, JavaScript
+- **Tools**: Git, VS Code, Docker, Ansible
+- **Databases**: MongoDB, Redis, PostgreSQL
+
+> ⚡ “To try, even it is absurd and crazy.”
